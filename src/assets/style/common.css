@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  color: #666;
+  background-color: #F5F5F5;
+  width: 100%;
+}
+a {
+  font-style: normal;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease-out;
+}
+a:hover {
+  color: #6CA0DC;
+}
+li {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+i,
+em {
+  font-style: normal;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.logo-color {
+  color: #1D4E89;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.flex {
+  display: flex;
+}
+.between {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-v-center {
+  display: flex;
+  align-items: center;
+}
+.between-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.full-height {
+  height: 100%;
+}
+/*# sourceMappingURL=common.css.map */

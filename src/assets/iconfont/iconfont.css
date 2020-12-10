@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1605765974475'); /* IE9 */
+  src: url('iconfont.eot?t=1605765974475#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPQAAsAAAAAB/gAAAOCAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDWIMxATYCJAMMCwgABCAFhG0HPhv/BhEVnGHIfhTGMbEqOntlYCRvf5U39n3Iwpo6K8mHYUDHBWZ69hdogACCsFvTMdxjTITplD3fepb//yZdvy4N6zxOoxRCIiR/3Dv9o8TnsyyXOcb5py7AOKCAxl5kBRQQB9ZyOLwKz9yz1gMB0OAhDOUVlNVBgQDtRgCob68enaDkdBAtxQQFBKlmrAAthAEKm8XuAlgQfp7+ICYFYDBw0L5V3fO7Iuvn2J9T+MSWidr6CPjTWQDIkwAOIAwgAGpfazOBx7EwHJopE+3ZEgQIbKpgSwshz1JIG/3hMYAk0EIzAEAQlrKL4rtMIODnlDgYgOufBEgAFABrATwgKruh6VKYma+quvN6Y7YnGF80aKSTxjKXLgU06O5dzJ9mPX+ed/Sm09Nn9XNeNDz7ZE/Lnvd9/rx2x53AF8/qnz4dMcc+JzaGz6nb9Kx8GSbaeS3FMvs5jg0rHOfYX8sPXE0vXhjn7Jq4c/buSXvqPG7GP+jMC98BkmdjTk1coc+xL182Z8VyB4/ltKIzQKlH/yS62uNWuyq32NauA8/n/wr4NbjjwXLq/DfwX97VgDF2hW7tPA75NPbK/JzbynRskWRcb8qs6B3N+x9dbl1gNbb7QEPGmG6ZHaOzxeTgIt+43LFlOCSpE+067x83hmax4yvYIPOUHvHTdMG+M6FOFN4FQV0WGqLdB1rt92U9ts/OM9nM9JvpP9Jv5NV6icvqJm04EGVkrP2K8YMZYvs61j5dkiLnRAmldpO3VCezs4wr/LFlrCdx526zzPUkHq4dHUE78iusEYBfZL//6HfQOfbg/Q6Waf8VXQAA3rwNM4Y6AbhCuV87Af+PDywRlpDquTB4Ls/xc3TFP7IwAHMUE1qIy8b74Qp7cCFAUGCfAoMMd+BQ4IcKchjwDXRxIFFkgiZUN1lni+3RVAAh3giIlQ8wFi4AZ+WLCvIPDBz8QWIVB40x2zl1AfVSuYxasAfzgsnGQNwoKio+4nBzmrPCkHJFXqcgVHlZTHYYkKcYsN6HWoSAOHpo0WboXITEcUYr+SiSmqKguhflNvqNkoshTaAeMF7AxIoC8isLVXr/ERrcOBq3EJqsV4itptpBJVcC0E4WQIRbuWR1N6gJQQBhkQdaZEGOxSKQ6lvNkCVy44BI0ihIOYLK8uUV/v1WAWjocTxGnASkuynp12EE2lFLRpNzmw0AAA==') format('woff2'),
+  url('iconfont.woff?t=1605765974475') format('woff'),
+  url('iconfont.ttf?t=1605765974475') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1605765974475#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alipay:before {
+  content: "\e87c";
+}
+
+.icon-wechat-fill:before {
+  content: "\e883";
+}
+
