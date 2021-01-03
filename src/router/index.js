@@ -12,6 +12,7 @@ import Order from "@/views/Order";
 import Cart from "@/views/Cart";
 import Buy from "@/views/Buy";
 import Success from "@/views/Success";
+import ResetPwd from "@/views/ResetPwd";
 
 Vue.use(VueRouter)
 
@@ -35,6 +36,7 @@ const routes = [
     },
     {path: '/login', name: 'login', component: Login},
     {path: '/register', name: 'register', component: Register},
+    {path: '/reset', name: 'reset', component: ResetPwd},
 
     // {
     //   path: '/about',

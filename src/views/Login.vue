@@ -36,8 +36,10 @@
             <br>
             <el-button type="primary" round @click="submitForm('ruleForm')">登录</el-button>
             <br>
-            <router-link to="/register">没有账号？去注册</router-link>
 
+            <span>
+            <router-link to="/reset">忘记密码？</router-link>| <router-link to="/register">没有账号？去注册</router-link>
+            </span>
           </el-form>
 
         </div>
