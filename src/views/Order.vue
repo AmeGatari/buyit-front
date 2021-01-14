@@ -52,8 +52,8 @@
         :visible.sync="dialogVisible"
         width="30%">
       <span>选择支付方式</span><br><br>
-      <el-button type="primary" round @click="pay">支付宝支付</el-button>
-      <el-button type="success" round @click="pay">微信支付</el-button>
+      <el-button type="primary" round @click="pay"><i class="iconfont icon-alipay"></i>支付宝支付</el-button>
+      <el-button type="success" round @click="pay"><i class="iconfont icon-wechat-fill"></i>微信支付</el-button>
       <span slot="footer" class="dialog-footer">
         <el-button @click="dialogVisible = false">取 消</el-button>
       </span>
